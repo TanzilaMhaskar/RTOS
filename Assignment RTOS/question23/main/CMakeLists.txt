@@ -1,1 +1,1 @@
-idf_component_register(SRCS "semaphore.c" INCLUDE_DIRS "")
+idf_component_register(SRCS "mutex.c" INCLUDE_DIRS "")
